@@ -1,0 +1,14 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="g" x1="10" y1="6" x2="54" y2="58" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B1B3A"></stop>
+      <stop offset="1" stop-color="#1E3A5F"></stop>
+    </linearGradient>
+  </defs>
+  <!-- Map-pin silhouette -->
+  <path d="M32 4c-11 0-20 9-20 20 0 12.5 20 36 20 36s20-23.5 20-36c0-11-9-20-20-20z" fill="url(#g)"></path>
+  <!-- House -->
+  <path d="M20 29v-6l12-9 12 9v6" stroke="#ffffff" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"></path>
+  <rect x="28" y="28" width="8" height="11" rx="1.5" fill="#ffffff"></rect>
+  <path d="M24 29h16" stroke="#ffffff" stroke-width="2.2" stroke-linecap="round"></path>
+</svg>

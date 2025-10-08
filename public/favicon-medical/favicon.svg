@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="256" height="256"><svg width="256" height="256" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="SvgjsLinearGradient1001" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0A6C73"></stop>
+      <stop offset="1" stop-color="#0E9AA4"></stop>
+    </linearGradient>
+  </defs>
+  <rect x="0" y="0" width="32" height="32" rx="8" fill="url(#teal)"></rect>
+  <rect x="14" y="6" width="4" height="20" rx="2" fill="white"></rect>
+  <rect x="6" y="14" width="20" height="4" rx="2" fill="white"></rect>
+</svg><style>@media (prefers-color-scheme: light) { :root { filter: none; } }
+@media (prefers-color-scheme: dark) { :root { filter: none; } }
+</style></svg>
